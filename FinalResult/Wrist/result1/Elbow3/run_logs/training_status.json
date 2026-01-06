@@ -1,0 +1,68 @@
+{
+    "my_environment_parameter": {
+        "lesson_num": 3
+    },
+    "Elbow": {
+        "checkpoints": [
+            {
+                "steps": 469992,
+                "file_path": "results/Elbow3/Elbow/Elbow-469992.onnx",
+                "reward": 0.27768068299628795,
+                "creation_time": 1752816493.924844,
+                "auxillary_file_paths": [
+                    "results/Elbow3/Elbow/Elbow-469992.pt"
+                ]
+            },
+            {
+                "steps": 479976,
+                "file_path": "results/Elbow3/Elbow/Elbow-479976.onnx",
+                "reward": 0.24443451299642524,
+                "creation_time": 1752816499.804478,
+                "auxillary_file_paths": [
+                    "results/Elbow3/Elbow/Elbow-479976.pt"
+                ]
+            },
+            {
+                "steps": 489984,
+                "file_path": "results/Elbow3/Elbow/Elbow-489984.onnx",
+                "reward": 0.18969384039519355,
+                "creation_time": 1752816505.882983,
+                "auxillary_file_paths": [
+                    "results/Elbow3/Elbow/Elbow-489984.pt"
+                ]
+            },
+            {
+                "steps": 499992,
+                "file_path": "results/Elbow3/Elbow/Elbow-499992.onnx",
+                "reward": 0.17353148038091604,
+                "creation_time": 1752816511.8629,
+                "auxillary_file_paths": [
+                    "results/Elbow3/Elbow/Elbow-499992.pt"
+                ]
+            },
+            {
+                "steps": 500056,
+                "file_path": "results/Elbow3/Elbow/Elbow-500056.onnx",
+                "reward": 0.17353148038091604,
+                "creation_time": 1752816511.876375,
+                "auxillary_file_paths": [
+                    "results/Elbow3/Elbow/Elbow-500056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500056,
+            "file_path": "results/Elbow3/Elbow.onnx",
+            "reward": 0.17353148038091604,
+            "creation_time": 1752816511.876375,
+            "auxillary_file_paths": [
+                "results/Elbow3/Elbow/Elbow-500056.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.1"
+    }
+}

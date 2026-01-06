@@ -1,0 +1,65 @@
+{
+    "Elbow": {
+        "checkpoints": [
+            {
+                "steps": 269988,
+                "file_path": "results/hidden2/Elbow/Elbow-269988.onnx",
+                "reward": -0.08406284761925538,
+                "creation_time": 1753152653.1158779,
+                "auxillary_file_paths": [
+                    "results/hidden2/Elbow/Elbow-269988.pt"
+                ]
+            },
+            {
+                "steps": 279979,
+                "file_path": "results/hidden2/Elbow/Elbow-279979.onnx",
+                "reward": 0.10698804784227502,
+                "creation_time": 1753152659.5767522,
+                "auxillary_file_paths": [
+                    "results/hidden2/Elbow/Elbow-279979.pt"
+                ]
+            },
+            {
+                "steps": 289984,
+                "file_path": "results/hidden2/Elbow/Elbow-289984.onnx",
+                "reward": 0.13118956719214717,
+                "creation_time": 1753152666.170727,
+                "auxillary_file_paths": [
+                    "results/hidden2/Elbow/Elbow-289984.pt"
+                ]
+            },
+            {
+                "steps": 299968,
+                "file_path": "results/hidden2/Elbow/Elbow-299968.onnx",
+                "reward": -0.05742587521672249,
+                "creation_time": 1753152672.694796,
+                "auxillary_file_paths": [
+                    "results/hidden2/Elbow/Elbow-299968.pt"
+                ]
+            },
+            {
+                "steps": 300064,
+                "file_path": "results/hidden2/Elbow/Elbow-300064.onnx",
+                "reward": -0.05742587521672249,
+                "creation_time": 1753152672.711988,
+                "auxillary_file_paths": [
+                    "results/hidden2/Elbow/Elbow-300064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 300064,
+            "file_path": "results/hidden2/Elbow.onnx",
+            "reward": -0.05742587521672249,
+            "creation_time": 1753152672.711988,
+            "auxillary_file_paths": [
+                "results/hidden2/Elbow/Elbow-300064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.1"
+    }
+}

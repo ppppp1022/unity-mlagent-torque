@@ -1,0 +1,65 @@
+{
+    "Elbow": {
+        "checkpoints": [
+            {
+                "steps": 229992,
+                "file_path": "results/test2/Elbow/Elbow-229992.onnx",
+                "reward": -0.09144088928587735,
+                "creation_time": 1753149615.58087,
+                "auxillary_file_paths": [
+                    "results/test2/Elbow/Elbow-229992.pt"
+                ]
+            },
+            {
+                "steps": 239972,
+                "file_path": "results/test2/Elbow/Elbow-239972.onnx",
+                "reward": -0.010363649111241102,
+                "creation_time": 1753149621.68307,
+                "auxillary_file_paths": [
+                    "results/test2/Elbow/Elbow-239972.pt"
+                ]
+            },
+            {
+                "steps": 249988,
+                "file_path": "results/test2/Elbow/Elbow-249988.onnx",
+                "reward": 5.9456098824739456e-05,
+                "creation_time": 1753149627.8100228,
+                "auxillary_file_paths": [
+                    "results/test2/Elbow/Elbow-249988.pt"
+                ]
+            },
+            {
+                "steps": 259996,
+                "file_path": "results/test2/Elbow/Elbow-259996.onnx",
+                "reward": 0.1776271597124063,
+                "creation_time": 1753149633.9013171,
+                "auxillary_file_paths": [
+                    "results/test2/Elbow/Elbow-259996.pt"
+                ]
+            },
+            {
+                "steps": 261320,
+                "file_path": "results/test2/Elbow/Elbow-261320.onnx",
+                "reward": 0.09252922292798757,
+                "creation_time": 1753149634.494215,
+                "auxillary_file_paths": [
+                    "results/test2/Elbow/Elbow-261320.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 261320,
+            "file_path": "results/test2/Elbow.onnx",
+            "reward": 0.09252922292798757,
+            "creation_time": 1753149634.494215,
+            "auxillary_file_paths": [
+                "results/test2/Elbow/Elbow-261320.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.1"
+    }
+}

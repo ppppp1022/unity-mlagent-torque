@@ -1,0 +1,65 @@
+{
+    "Elbow": {
+        "checkpoints": [
+            {
+                "steps": 249999,
+                "file_path": "results/elbow_batch256/Elbow/Elbow-249999.onnx",
+                "reward": 0.6576022610068322,
+                "creation_time": 1753183887.727332,
+                "auxillary_file_paths": [
+                    "results/elbow_batch256/Elbow/Elbow-249999.pt"
+                ]
+            },
+            {
+                "steps": 259999,
+                "file_path": "results/elbow_batch256/Elbow/Elbow-259999.onnx",
+                "reward": 0.6563384431401467,
+                "creation_time": 1753184127.657394,
+                "auxillary_file_paths": [
+                    "results/elbow_batch256/Elbow/Elbow-259999.pt"
+                ]
+            },
+            {
+                "steps": 269999,
+                "file_path": "results/elbow_batch256/Elbow/Elbow-269999.onnx",
+                "reward": 0.6604509818652816,
+                "creation_time": 1753184368.1559548,
+                "auxillary_file_paths": [
+                    "results/elbow_batch256/Elbow/Elbow-269999.pt"
+                ]
+            },
+            {
+                "steps": 279999,
+                "file_path": "results/elbow_batch256/Elbow/Elbow-279999.onnx",
+                "reward": 0.6771029615020939,
+                "creation_time": 1753184608.721428,
+                "auxillary_file_paths": [
+                    "results/elbow_batch256/Elbow/Elbow-279999.pt"
+                ]
+            },
+            {
+                "steps": 286388,
+                "file_path": "results/elbow_batch256/Elbow/Elbow-286388.onnx",
+                "reward": 0.6718532846044034,
+                "creation_time": 1753184762.3467221,
+                "auxillary_file_paths": [
+                    "results/elbow_batch256/Elbow/Elbow-286388.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 286388,
+            "file_path": "results/elbow_batch256/Elbow.onnx",
+            "reward": 0.6718532846044034,
+            "creation_time": 1753184762.3467221,
+            "auxillary_file_paths": [
+                "results/elbow_batch256/Elbow/Elbow-286388.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.1"
+    }
+}

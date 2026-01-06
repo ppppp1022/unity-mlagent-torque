@@ -1,0 +1,65 @@
+{
+    "Wrist": {
+        "checkpoints": [
+            {
+                "steps": 249999,
+                "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-249999.onnx",
+                "reward": 0.6762537254441169,
+                "creation_time": 1753428809.376804,
+                "auxillary_file_paths": [
+                    "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-249999.pt"
+                ]
+            },
+            {
+                "steps": 259999,
+                "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-259999.onnx",
+                "reward": 0.6895575617040907,
+                "creation_time": 1753429066.516196,
+                "auxillary_file_paths": [
+                    "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-259999.pt"
+                ]
+            },
+            {
+                "steps": 269999,
+                "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-269999.onnx",
+                "reward": 0.6926318185451703,
+                "creation_time": 1753429323.400081,
+                "auxillary_file_paths": [
+                    "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-269999.pt"
+                ]
+            },
+            {
+                "steps": 279999,
+                "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-279999.onnx",
+                "reward": 0.6039236136820427,
+                "creation_time": 1753429580.9305532,
+                "auxillary_file_paths": [
+                    "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-279999.pt"
+                ]
+            },
+            {
+                "steps": 286196,
+                "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-286196.onnx",
+                "reward": 0.6533586443939174,
+                "creation_time": 1753429741.5207,
+                "auxillary_file_paths": [
+                    "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-286196.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 286196,
+            "file_path": "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist.onnx",
+            "reward": 0.6533586443939174,
+            "creation_time": 1753429741.5207,
+            "auxillary_file_paths": [
+                "results/wrist-batchsize=16-hidden=256-numlayers=3/Wrist/Wrist-286196.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.7.1"
+    }
+}
